@@ -7,6 +7,6 @@
 
 
 🔍 내용: 수업 중의 학생들 파일럿 프로젝트
-| 프로젝트명 | 기간 | 링크 |
-| --- | --- | --- |
-| 구름&카카오 23년도1기 | 23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse/tree/main/Goorm_01_01_Project_First) |
+| 프로젝트명 | 내용 | 기간 | 링크 |
+| --- | --- | --- | --- |
+| 구름&카카오 23년도1기 | 파이썬 기본부터 캐글 대회 참여까지  |23/04/24 ~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse/tree/main/Goorm_01_01_Project_First) |
