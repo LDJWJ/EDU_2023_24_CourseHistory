@@ -76,7 +76,7 @@
 			<div align="left"> ChatGPT를 활용한 채용 공고 기반 면접 질문 및 추천 답변하기 </div></td>
 		<td>
             <div align="center"> <a href="-">
-				<img src='images/job.jpg' width=200 height=100  alt="---"></a>
+				<img src='images/job.jpeg' width=200 height=100  alt="---"></a>
             </div>
         </td>
 	</tr>
