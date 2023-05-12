@@ -51,16 +51,19 @@
 <table border=1 bgcolor="#EEEEEE">
 	<tr bgcolor="#CC0000">
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Team Name</b></font></div>
+		  <div align="center"><font color="#FFFFFF"><b>Team Name</b></font></div>
 		</td>
 		<td width="100">
-		<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
+		  <div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
 		</td>
 		<td width="300">
-		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+		  <div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+		</td>
+		<td width="300">
+		  <div align="center"><font color="#FFFFFF"><b>Contents</b></font></div>
 		</td>
 		<td width="120">
-		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
+		  <div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 	</tr>
 	<tr>
@@ -73,29 +76,40 @@
             <div align="left">Bien(윤지)<br/> MJ(시현), Elon(나행) </div>
         </td>
 		<td>
-			<div align="left"> ChatGPT를 활용한 채용 공고 기반 면접 질문 및 추천 답변하기 </div></td>
+			<div align="left"> ChatGPT를 활용한 채용 공고 기반 면접 질문 및 추천 답변하기 
+			</div>
+		</td>
 		<td>
-            <div align="center"> <a href="-">
+			<div align="left"> Python, HTML&CSS, Flask, ChatGPT API(3.5 Turbo), MS Designer </div>
+		</td>
+		<td>
+            <div align="center"> <a href="last_reports/01_01_ChatGPT_THRILLER_2305.pdf">
 				<img src='images/job.jpeg' width=200 height=100  alt="---"></a>
-            </div>
+            </div><br>
+		    <div><a href="https://github.com/mybuenoday/ThrillerAE">github</a></div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:-- <br/> ( 팀장 : Jay_재광 ) <br/> 
-            <b></b>
-		</div>
+			<div align="center"> 팀명:챗Trio <br/> ( 팀장 : Jay) <br/> 
+				<b></b>
+			</div>
 		</td>
 		<td>
             <div align="left"> Jay(재광) <br/> 율(솔), Grace(슬기) </div>
         </td>
 		<td>
-			<div align="left"> ChatGPT를 활용한 추천 </div></td>
+			<div align="left"> 챗 Gpt를 활용한, 날씨 기반 의상 추천 서비스</div>
+		</td>
+		<td>
+			<div align="left"> Python, HTML&CSS, Flask, ChatGPT </div>
+		</td>
 		<td>
             <div align="center"> 
-			<a href="-">
+			<a href="last_reports/01_01_ChatGPT_챗Trio_2305.pdf">
 				<img src='images/pandas.jpg' width=200 height=100  alt="---"></a>    
             </div>
+		    <div>github</div>
         </td>
 	</tr>
 </table>
