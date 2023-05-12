@@ -1,6 +1,6 @@
 
 # AI School
-* KICT 프로젝트반
+* 구름 2023년 1기 AI 기본과정
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -14,7 +14,7 @@
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
+세미 프로젝트 진행(ChatGPT 활용 실전 프로그래밍 만들기)
 * 기간 : 2022.07.13(수) ~ 2022.07.27(수) <br>
   * STEP 01. 팀명 정하기/팀 역할 나누기 <br>
   * STEP 02. 데이터 수집 및 처리/시각화/기본 모델 만들기<br>
@@ -33,17 +33,17 @@
 - Proj-02. [프로젝트 결과보고서 포맷   ][proj-02]
 
 
-[proj-01]:  ./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
+[proj-01]:  ./docu/프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
 [proj-02]:  ./docu/팀별프로젝트수행_결과작성양식_kdigital.pptx "Go proj-02"
 
 <hr>
 
 
-##  <font color='#00AAAA'>Team Project : Kick Off</font>
+##  <font color='#00AAAA'>Team Project </font>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b> 우리의 관심 분야 데이터 수집/분석해보기 </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b> 작은 태도, 작은 땀, 작은 노력이 모여 더 나은 곳으로 인도합니다. </b></font>
-- <b>Report Format </b>: <a href="./docu/Goorm10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
+
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 
@@ -65,246 +65,41 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 자비스 <br/>(팀장:이정우)<br/> 
+        <div align="center"> 팀명: THRILLER <br/>(팀장:Bien)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">이정우<br/>고준희, 정주희, 최가은</div>
+            <div align="left">Bien(윤지)<br/> MJ(시현), Elon(나행) </div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> ChatGPT를 활용한 채용 공고 기반 면접 질문 및 추천 답변하기 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
-				<img src='images/javis.jpg' width=200 height=100  alt="---"></a>    
+            <div align="center"> <a href="-">
+				<img src='images/job.jpg' width=200 height=100  alt="---"></a>
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:판다스<br/>(팀장:최연우)<br/> 
+        <div align="center"> 팀명:판다스 <br/> ( 팀장 : Jay_재광 ) <br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">최연우<br/>심연수(부팀장), 김태경, 장윤서</div>
+            <div align="left"> Jay(재광) <br/> 율(솔), Grace(슬기) </div>
         </td>
 		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
+			<div align="left"> ChatGPT를 활용한 추천 </div></td>
 		<td>
             <div align="center"> 
-			<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
+			<a href="-">
 				<img src='images/pandas.jpg' width=200 height=100  alt="---"></a>    
             </div>
         </td>
 	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명: AI_C <br/>(팀장:김찬별)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">김찬별<br/> 박윤수(부팀장), 이주행, 조기쁨, 최찬혁 </div>
-        </td>
-		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
-		<td>
-            <div align="center"><a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_AI_C_last.pdf">
-				<img src='images/AI_C.png' width=200 height=100 alt="---"></a>    
-            </div>
-        </td>
-	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명: 구름다리 <br/>(팀장:박 종민)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">박 종민<br/> 손희경(부팀장), 박규리, 백진선, 윤형석 </div>
-        </td>
-		<td>
-			<div align="left"> Kaggle Competition - Paddy Doctor </div></td>
-		<td>
-            <div align="center"> <a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">
-				<img src='images/goormBridge.png' width=200 height=100 alt="---"></a>    
-            </div>
-        </td>
-	</tr>
 </table>
 </div>
-<hr>
-
-Goorm 인공지능 기본 과정 1기! 최고 멋진 친구들 화이팅!!!
-<hr>
-
-##  <font color='#00AAAA'>Team Project : Final Report</font>
-- <b>Submission   </b>: 착수보고, 결과보고, 소스코드
-- <b>Presentation </b>: 10min / team, Q&A
-- <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
-
-<hr>
-
-### <font color="red">Project Team A </font>
-
-<div align="left" width=100%>
-	<table border=1 width=100%>
-		<tr>
-			<td width="25%"><div align="center"><b>Project Team</b></div></td>
-			<td width="75%"><div align="left"> 자비스 </div>
-			</td>
-		</tr>
-		<tr>
-			<td><div align="center"><b>Team Members</b></div></td>
-			<td><div align="left" > 이정우, 고준희, 정주희, 최가은, 한인혁 </div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><b>Report</b></div></td>
-			<td>
-				<div align="left" > 
-					<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">[자비스팀 결과보고]</a> &nbsp;&nbsp;&nbsp;
-					<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-				</div>
-			</td>
-		</tr>
-		<tr>
-			<td><div align="center"><b>Subject</b></div></td>
-			<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
-		</tr>
-		<tr>
-			<td><div align="center"><b>Presentation</b></div></td>
-			<td>
-				<div align="left" >
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_javis_last.pdf">
-					<img src="images/javis.jpg" width="90%">
-				</a>
-				</div>
-			</td>
-		</tr>
-	</table>
-</div>
-<br>
-<hr>
-
-### <font color="red">Project Team B </font>
-
-<div align="left" width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>팀명</b></div></td>
-		<td width="75%"><div align="left" > 판다스 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 최연우, 김태경, 심연수, 장윤서 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">[판다스팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_pandas_last.pdf">
-					<img src="images/pandas.jpg" width="90%">
-				</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-<br>
-<hr>
 
 
-### <font color="red">Project Team C </font>
-
-<div align="left" width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > AI_C </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김찬별, 박윤수, 이주행, 조기쁨, 최찬혁 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_AI_C_last.pdf">[AI_C팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-			</div>
-		</td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-				<a href="./last_reports/team_C_last.pdf">
-					<img src="images/AI_C.png" width="90%">
-				</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-<br>
-<hr>
-
-### <font color="red">Project Team D </font>
-
-<div align="left" width=100%>
-<table border=1 width=100%>
-	<tr>
-		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 구름다리 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 박종민, 박규리, 백진선, 손희경, 윤형석 </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Report</b></div></td>
-		<td>
-			<div align="left" > 
-				<a href="https://github.com/LDJWJ/Goorm_2st_DataCourse/blob/main/01_TeamProject_First_PaddyDoctor/last_reports/team_groombridge_last.pdf">[ [구름다리팀 결과보고]</a> &nbsp;&nbsp;&nbsp; 
-				<a href=".">[Github 코드]</a> &nbsp;&nbsp;&nbsp; 
-			</div>
-		</td>		
-	</tr>
-	<tr>
-		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > Kaggle Competition - Paddy Doctor </div></td>
-	</tr>
-	<tr>
-		<td><div align="center"><b>Presentation</b></div></td>
-		<td>
-			<div align="left" >
-				<a href="./last_reports/team_D_last.pdf">
-					<img src="images/goormBridge.png" width="90%">
-				</a>
-			</div>
-		</td>
-	</tr>
-</table>
-</div>
-<br>
-<hr>
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
