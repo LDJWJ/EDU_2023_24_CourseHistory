@@ -14,11 +14,6 @@
 | 프로젝트명 | 내용 | 기간 | 링크 |
 | --- | --- | --- | --- |
 | 구름&카카오 23년도1기 | ChatGPT API를 활용하여 파일럿 프로젝트 |23/05/01~ 23/05/12 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse/tree/main/Goorm_01_01_Project_First)
+| 구름&카카오 23년도1기 | 최종 프로젝트 |23/05/19~ 23/05/31 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse/tree/main/Goorm_01_02_Project_Second)
 
-### 구름&카카오 23년도2기
- * 학습 내용 : ChatGPT 기본 및 활용, 파이썬 기본, 데이터 분석 필수 라이브러리, 머신러닝, 딥러닝 등
- * 기간 : 23/04/24 ~ 23/05/31
 
-| 프로젝트명 | 내용 | 기간 | 링크 |
-| --- | --- | --- | --- |
-| 구름&카카오 23년도1기 | ChatGPT API를 활용하여 파일럿 프로젝트 |23/05/01~ 23/05/12 | [이동](https://github.com/LDJWJ/Goorm_2023_DataCourse/tree/main/Goorm_01_01_Project_First)
