@@ -84,7 +84,7 @@
 			<div align="left"> 캐글 딥러닝 데이터 분석 대회 참여 </div>
 		</td>
 		<td>
-			<img src="./images/tour_unsplash_2305.jpg">
+			<img src="./images/data_unsplash_2305.jpg">
 		</td>
 		<td>
             <div align="center"> 
