@@ -62,7 +62,7 @@
 			<div align="left"> 2023 전주시 데이터 분석 공모전 - 전주 재방문 늘리기 </div>
 		</td>
 		<td>
-			<img src="./images/titanic.png">
+			<img src="./images/tour_unsplash_2305.jpg">
 		</td>
 		<td>
             <div align="center"> 
@@ -84,7 +84,7 @@
 			<div align="left"> 캐글 딥러닝 데이터 분석 대회 참여 </div>
 		</td>
 		<td>
-			<img src="./images/Random.png">
+			<img src="./images/tour_unsplash_2305.jpg">
 		</td>
 		<td>
             <div align="center"> 
