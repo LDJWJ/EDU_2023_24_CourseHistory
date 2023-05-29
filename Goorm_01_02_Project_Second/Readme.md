@@ -1,8 +1,8 @@
 
-# AI School - Goorm 2회차
+# AI School - 2023년도 Goorm 1회차
 * Goorm AI 프로젝트반
   * 프로젝트 과정 
-  * 기간 : 2022/07/04 ~ 2022/08/29
+  * 기간 : 23/04/24 ~ 23/05/31
 <div align='left'>
 <hr>
 
@@ -12,22 +12,21 @@
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-프로젝트 진행(캐글 대회 참석 - American Express 대용량(50G) 데이터 분석)
-* 기간 : 2022.08.05(금) ~ 2022.08.26(금) <br>
-  * STEP 01. 데이터 셋 이해 및 EDA <br>
-  * STEP 02. 데이터 시각화, 기본 모델 만들기<br>
-  * STEP 03. 모델 선택 및 모델 평가<br>
-  * STEP 04. 모델 최적화<br>
+프로젝트 진행 - 팀별 최종 프로젝트 수행
+* 기간 : 2023.05.19(금) ~ 2023.06.01(목) <br>
+  * STEP 01. 팀 구성 및 팀 주제 선정 <br>
+  * STEP 02. 프로젝트 작업 진행 <br>
+  * STEP 03. 프로젝트 발표 및 피드백 보완 <br>
   * STEP 05. 학습한 내용 정리 및 최종 결과물 제출<br>
   
 * 개인별 최종 결과물 제출   <br>
-  * ~2022.08.25(목)
+  * ~2023.06.01(목)
 <hr>
 
 ##  <font color='#00AAAA'>Project</font>
 
 - <b>2nd Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
-- <b>Our Motto   </b>: <font color='#CC0000'><b>작은 땀의 결실과 성공이 모여 큰 성공을 이룬다. </b></font>
+- <b>Our Motto   </b>: <font color='#CC0000'><b>작은 땀의 결실과 성공이 모여 나의 작은 기적을 만들어간다. </b></font>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 
@@ -52,15 +51,15 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명 : 타이타닉 <br/>(팀장:박윤수)<br/> 
+        <div align="center"> 팀명 : 성계어전 <br/>(팀장:맹시현)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left"> 박윤수, 김태경, 이정우, 최연우 <br/></div>
+            <div align="left"> 맹시현, 김윤지 <br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+			<div align="left"> 2023 전주시 데이터 분석 공모전 - 전주 재방문 늘리기 </div>
 		</td>
 		<td>
 			<img src="./images/titanic.png">
@@ -74,15 +73,15 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: Random <br/>(팀장:장윤서)<br/> 
+        <div align="center"> 팀명: 나노 <br/>(팀장:..)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">장윤서, 김찬별, 심연수, 이주행, 최찬혁<br/></div>
+            <div align="left"> 이나행, 노슬기 <br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+			<div align="left"> 캐글 딥러닝 데이터 분석 대회 참여 </div>
 		</td>
 		<td>
 			<img src="./images/Random.png">
@@ -90,21 +89,21 @@
 		<td>
             <div align="center"> 
 			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
+		      <a href=""> 우리의 작품 </a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:Amazon <br/>(팀장:정주희)<br/> 
+        <div align="center"> 팀명:챗Trio <br/>(팀장:최재광)<br/> 
             <b></b>
 		</div>
 		</td>
 		<td>
-            <div align="left">정주희, 손희경, 윤형석, 조기쁨<br/></div>
+            <div align="left"> 최재광, 송솔 <br/></div>
         </td>
 		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
+			<div align="left"> 챗 Gpt를 활용한, 날씨 기반 의상 추천 서비스 </div>
 		</td>
 		<td>
 			<img src="./images/Amazon.jpg">
@@ -116,29 +115,6 @@
             </div>
         </td>
 	</tr>
-	<tr>
-		<td>
-        <div align="center"> 팀명:MST <br/>(팀장:박규리)<br/> 
-            <b></b>
-		</div>
-		</td>
-		<td>
-            <div align="left">박규리, 박종민, 백진선, 최가은<br/></div>
-        </td>
-		<td>
-			<div align="left"> American Express - Default Prediction 데이터 분석 </div>
-		</td>
-		<td>
-			<img src="./images/marvelous stars.jpg">
-		</td>
-		<td>
-            <div align="center"> 
-			  <a href=""> notion </a><br>
-		      <a href=""> 우리의 작품</a>    
-            </div>
-        </td>
-	</tr>
-
 </table>
 </div>
 <hr>
