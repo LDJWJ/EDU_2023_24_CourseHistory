@@ -73,7 +73,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명: 나노 <br/>(팀장:..)<br/> 
+        <div align="center"> 팀명: 나노 <br/>(팀장: 노슬기)<br/> 
             <b></b>
 		</div>
 		</td>
