@@ -66,7 +66,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> notion </a><br>
+			  <a href=""> github or notion </a><br>
 		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
@@ -88,7 +88,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> notion </a><br>
+			  <a href=""> github or notion </a><br>
 		      <a href=""> 우리의 작품 </a>    
             </div>
         </td>
@@ -110,7 +110,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> notion </a><br>
+			  <a href=""> github or notion </a><br>
 		      <a href=""> 우리의 작품</a>    
             </div>
         </td>
