@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:챗Trio <br/>(팀장:최재광)<br/> 
+        <div align="center"> 팀명:DOORIAN <br/>(팀장:최재광)<br/> 
             <b></b>
 		</div>
 		</td>
