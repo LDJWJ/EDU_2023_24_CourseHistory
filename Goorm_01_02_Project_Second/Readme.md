@@ -95,7 +95,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:챗Trio <br/>(팀장:최재광)<br/> 
+        <div align="center"> 팀명:DOORIAN <br/>(팀장:최재광)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -106,7 +106,7 @@
 			<div align="left"> 챗 Gpt를 활용한, 날씨 기반 의상 추천 서비스 </div>
 		</td>
 		<td>
-			<img src="./christian_bolt_wear_un.jpg">
+			<img src="./images/christian_bolt_wear_un.jpg">
 		</td>
 		<td>
             <div align="center"> 
