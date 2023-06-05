@@ -66,7 +66,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> github or notion </a><br>
+		      github or notion<br>
 		      <a href="./pdf/성계어전_전주.pdf"> 우리의 작품</a>    
             </div>
         </td>
@@ -88,7 +88,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> github or notion </a><br>
+		      github or notion<br>
 		      <a href="./pdf/나노팀_발표자료.pdf"> 우리의 작품 </a>    
             </div>
         </td>
@@ -110,7 +110,7 @@
 		</td>
 		<td>
             <div align="center"> 
-			  <a href=""> github or notion </a><br>
+			 github or notion <br>
 		      <a href="./pdf/DOORIAN_발표자료.pdf"> 우리의 작품</a>    
             </div>
         </td>
