@@ -1,4 +1,4 @@
-# Goorm_2023_DataCourse
+# EDU_2023_Course
  
 ### 2023년도 프로젝트 정리
 
